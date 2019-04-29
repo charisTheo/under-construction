@@ -389,12 +389,12 @@ svg g#key-one {
 }
 
 ::-moz-selection {
-  background: #f44336;
+  background: #ffffff;
   text-shadow: none;
 }
 
 ::selection {
-  background: #f44336;
+  background: #ffffff;
   text-shadow: none;
 }
 
